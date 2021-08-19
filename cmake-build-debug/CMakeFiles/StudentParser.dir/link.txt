@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StudentParser.dir/main.cpp.o CMakeFiles/StudentParser.dir/Student.cpp.o CMakeFiles/StudentParser.dir/StudentList.cpp.o -o StudentParser 
